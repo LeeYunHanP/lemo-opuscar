@@ -1,0 +1,9 @@
+The Real Stories Behind GTA 6: credits for third-party material
+
+Picture: drawn in code (Canvas 2D). VHS camcorder pass, OSD dot-matrix font and 608-style captions adapted from the library's styles/backrooms demo (MIT, see the library's LICENSE); chapter 3 reuses the tapes made for the "Everglades" reel.
+Voice: Kokoro-82M text-to-speech (kokoro-onnx), voice "am_onyx" — Apache License 2.0 (model: hexgrad/Kokoro-82M).
+Speech check: faster-whisper "base.en" — MIT.
+Sound: synthesised in code (core/audio/sfx.py); no music.
+Fonts: IBM Plex Mono and IBM Plex Sans Condensed by IBM — SIL Open Font License 1.1, via Google Fonts.
+
+All newspapers, mastheads, signs, the magazine cover, the TV screen, the cargo notice and the flag are invented stand-ins drawn for this film; no real logos, publications or trade dress. Nothing in the film is real footage. No game footage or likenesses of real people are used. Sources for every factual claim: SCRIPT.md.

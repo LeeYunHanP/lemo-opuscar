@@ -1,0 +1,16 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../fonts/fonts.css">
+<style>
+html,body{margin:0;width:1280px;height:720px;overflow:hidden;background:#07070a}
+#a{position:absolute;left:0;top:0;width:700px;height:720px;object-fit:cover;object-position:100% 50%}
+#fade{position:absolute;left:520px;top:0;width:200px;height:720px;background:linear-gradient(to right,rgba(7,7,10,0),#07070a)}
+#t{position:absolute;left:690px;top:120px;right:30px;font-family:'IBM Plex Mono',monospace;font-weight:600}
+.r{display:inline-block;background:#000;color:#f2f2f2;padding:6px 18px;margin:0 0 10px;font-size:62px;line-height:1.05}
+.r.y{color:#ffd23f}
+.s{margin-top:28px;font-size:30px;color:#cfd3d6;letter-spacing:.04em}
+#rec{position:absolute;left:40px;top:34px;font-family:'IBM Plex Mono';font-weight:600;font-size:30px;color:#fff;text-shadow:0 0 6px #000}
+#rec:before{content:'';display:inline-block;width:22px;height:22px;border-radius:50%;background:#e8261c;margin-right:12px;vertical-align:-2px}
+</style></head><body>
+<img id="a" src="news.jpg"><div id="fade"></div>
+<div id="t"><div class="r">THE REAL</div><br><div class="r y">GTA 6</div><br><div class="r">STORIES</div><div class="s">4 TRUE STORIES<br>FROM FLORIDA</div></div>
+<script>window.DUR=1;window.render=()=>{};Promise.all([document.fonts.load('600 60px "IBM Plex Mono"'),new Promise(r=>{const i=document.getElementById('a');i.complete?r():i.onload=r})]).then(()=>window.READY=true)</script>
+</body></html>

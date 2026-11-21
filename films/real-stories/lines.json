@@ -1,0 +1,653 @@
+[
+ {
+  "id": "i1",
+  "text": "G.T.A. six takes us back to Vice City, in a state called Lee-oh-nee-da.",
+  "sub": "GTA 6 takes us back to Vice City, in a state called Leonida.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "GTA 6 takes us back to Vice City in a state called Leonida."
+ },
+ {
+  "id": "i2",
+  "text": "It's a game.",
+  "sub": "It's a game.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "i3",
+  "text": "But almost everything in it is drawn from a real place: South Florida.",
+  "sub": "But almost everything in it is drawn from a real place: South Florida.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "i4",
+  "text": "A city whose violence made the cover of Time magazine.",
+  "sub": "A city whose violence made the cover of Time magazine.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "i5",
+  "text": "A swamp that swallowed an airliner.",
+  "sub": "A swamp that swallowed an airliner.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "A swamp that swallowed an air liner."
+ },
+ {
+  "id": "i6",
+  "text": "A harbor that sent a hundred and twenty-five thousand people across the sea in six months.",
+  "sub": "A harbor that sent a hundred and twenty-five thousand people across the sea in six months.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "A harbor that sent 125,000 people across the sea in six months."
+ },
+ {
+  "id": "i7",
+  "text": "A chain of islands that once declared independence from the United States.",
+  "sub": "A chain of islands that once declared independence from the United States.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "i8",
+  "text": "These are the real stories behind G.T.A. six.",
+  "sub": "These are the real stories behind GTA 6.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1a",
+  "text": "July eleventh, nineteen seventy-nine.",
+  "sub": "July 11th, 1979.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "July 11, 1979"
+ },
+ {
+  "id": "c1b",
+  "text": "Two-thirty in the afternoon.",
+  "sub": "Two-thirty in the afternoon.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "2.30 in the afternoon."
+ },
+ {
+  "id": "c1c",
+  "text": "Dadeland Mall, south of Miami, one of the busiest shopping centers in the city.",
+  "sub": "Dadeland Mall, south of Miami, one of the busiest shopping centers in the city.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1d",
+  "text": "A delivery van pulls up outside a liquor store.",
+  "sub": "A delivery van pulls up outside a liquor store.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1e",
+  "text": "Painted on its side: Happy Time Complete Party Supply.",
+  "sub": "Painted on its side: Happy Time Complete Party Supply.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1f",
+  "text": "Two men walk in.",
+  "sub": "Two men walk in.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1g",
+  "text": "Seconds later, the gunfire starts.",
+  "sub": "Seconds later, the gunfire starts.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1h",
+  "text": "The target is a Colombian trafficker who shops there regularly.",
+  "sub": "The target is a Colombian trafficker who shops there regularly.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1i",
+  "text": "He is killed, and so is the man with him.",
+  "sub": "He is killed, and so is the man with him.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1j",
+  "text": "The shooters run back to the van and drive away.",
+  "sub": "The shooters run back to the van and drive away.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1k",
+  "text": "Police find it later, abandoned at the far end of the parking lot, with guns and bulletproof vests inside.",
+  "sub": "Police find it later, abandoned at the far end of the parking lot, with guns and bulletproof vests inside.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1l",
+  "text": "They call it a war wagon.",
+  "sub": "They call it a war wagon.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1m",
+  "text": "The first seven months of nineteen seventy-nine were called the bloodiest in South Florida's history.",
+  "sub": "The first seven months of 1979 were called the bloodiest in South Florida's history.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "The first seven months of 1979 were called the bloodiest in South Florida's history."
+ },
+ {
+  "id": "c1n",
+  "text": "Cocaine was pouring in, and so was the money.",
+  "sub": "Cocaine was pouring in, and so was the money.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1o",
+  "text": "Rivals settled scores in public, in daylight, with automatic weapons.",
+  "sub": "Rivals settled scores in public, in daylight, with automatic weapons.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1p",
+  "text": "The newspapers gave the new killers a name: the Cocaine Cowboys.",
+  "sub": "The newspapers gave the new killers a name: the Cocaine Cowboys.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1q",
+  "text": "By nineteen eighty-one, the county morgue had run out of room, and the medical examiner leased a refrigerated truck to hold the dead.",
+  "sub": "By 1981, the county morgue had run out of room, and the medical examiner leased a refrigerated truck to hold the dead.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "By 1981, the County morgue had run out of room, and the medical examiner leased a refrigerated truck to hold the dead."
+ },
+ {
+  "id": "c1r",
+  "text": "That November, Time magazine put South Florida on its cover, under two words: Paradise Lost.",
+  "sub": "That November, Time magazine put South Florida on its cover, under two words: Paradise Lost.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1s",
+  "text": "A few years later, television turned the same city into pastel suits and neon.",
+  "sub": "A few years later, television turned the same city into pastel suits and neon.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1t",
+  "text": "That's the Vice City most of us know.",
+  "sub": "That's the Vice City most of us know.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c1u",
+  "text": "The real one came first.",
+  "sub": "The real one came first.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2a",
+  "text": "April, nineteen eighty.",
+  "sub": "April 1980.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "April 1980"
+ },
+ {
+  "id": "c2b",
+  "text": "In Havana, a bus crashes through the gate of the Peruvian embassy.",
+  "sub": "In Havana, a bus crashes through the gate of the Peruvian embassy.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2c",
+  "text": "Within days, about ten thousand Cubans crowd into its gardens, asking to leave.",
+  "sub": "Within days, about ten thousand Cubans crowd into its gardens, asking to leave.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Within days, about 10,000 Cubans crowd into its gardens asking to leave."
+ },
+ {
+  "id": "c2d",
+  "text": "Fidel Castro answers with a surprise: anyone who wants to go can go, from the port of Mariel.",
+  "sub": "Fidel Castro answers with a surprise: anyone who wants to go can go, from the port of Mariel.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2e",
+  "text": "Boats from Florida race across the straits to pick them up: fishing boats, pleasure cruisers, anything that floats.",
+  "sub": "Boats from Florida race across the straits to pick them up: fishing boats, pleasure cruisers, anything that floats.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Boats from Florida race across the straights to pick them up, fishing boats, pleasure cruisers, anything that floats."
+ },
+ {
+  "id": "c2f",
+  "text": "Between April and October, around a hundred and twenty-five thousand people arrive in South Florida.",
+  "sub": "Between April and October, around a hundred and twenty-five thousand people arrive in South Florida.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Between April and October, around 125,000 people arrive in South Florida."
+ },
+ {
+  "id": "c2g",
+  "text": "Most were ordinary families.",
+  "sub": "Most were ordinary families.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2h",
+  "text": "But Cuba also put people from its prisons and mental hospitals on the boats, and that small group shaped how the whole exodus was seen.",
+  "sub": "But Cuba also put people from its prisons and mental hospitals on the boats, and that small group shaped how the whole exodus was seen.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2i",
+  "text": "Miami had to take in a small city's worth of people in six months.",
+  "sub": "Miami had to take in a small city's worth of people in six months.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2j",
+  "text": "Newcomers slept in tent camps and in a football stadium.",
+  "sub": "Newcomers slept in tent camps and in a football stadium.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2k",
+  "text": "In the same weeks, riots tore through parts of the city.",
+  "sub": "In the same weeks, riots tore through parts of the city.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2l",
+  "text": "Hollywood took the story and ran.",
+  "sub": "Hollywood took the story and ran.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c2m",
+  "text": "A gangster film made its fictional hero a Mari-el refugee who rises through the cocaine trade, and it became a major inspiration for the original Vice City.",
+  "sub": "A gangster film made its fictional hero a Mariel refugee who rises through the cocaine trade, and it became a major inspiration for the original Vice City.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "A gangster film made its fictional hero, a Marielle refugee who rises through the cocaine trade and it became a major inspiration for the original Vice City."
+ },
+ {
+  "id": "c2n",
+  "text": "But the real Mari-el isn't that movie.",
+  "sub": "But the real Mariel isn't that movie.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "But the real Marielle isn't that movie."
+ },
+ {
+  "id": "c2o",
+  "text": "It's tens of thousands of families who built a new Miami: the city whose food, music and Spanish-speaking streets you'll see in Lee-oh-nee-da.",
+  "sub": "It's tens of thousands of families who built a new Miami: the city whose food, music and Spanish-speaking streets you'll see in Leonida.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "It's tens of thousands of families who built a new Miami, the city whose food, music, and Spanish-speaking streets you'll see in Leonida."
+ },
+ {
+  "id": "c3a",
+  "text": "From the air, the Everglades look like a field that never ends: sawgrass, water and sky.",
+  "sub": "From the air, the Everglades look like a field that never ends: sawgrass, water and sky.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "From the air, the Everglades look like a field that never ends, saw grass, water, and sky."
+ },
+ {
+  "id": "c3b",
+  "text": "It isn't really a swamp.",
+  "sub": "It isn't really a swamp.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3c",
+  "text": "It's a slow, shallow river, flowing south across the bottom of Florida.",
+  "sub": "It's a slow, shallow river, flowing south across the bottom of Florida.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3d",
+  "text": "Much of what's left is protected inside a national park, dedicated in nineteen forty-seven.",
+  "sub": "Much of what's left is protected inside a national park, dedicated in 1947.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Much of what's left is protected inside a national park, dedicated in 1947."
+ },
+ {
+  "id": "c3e",
+  "text": "May eleventh, nineteen ninety-six.",
+  "sub": "May 11th, 1996.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "May 11th, 1996"
+ },
+ {
+  "id": "c3f",
+  "text": "Value Jet Flight five ninety-two takes off from Miami just after two in the afternoon, heading for Atlanta with one hundred and ten people on board.",
+  "sub": "ValuJet Flight 592 takes off from Miami just after two in the afternoon, heading for Atlanta with 110 people on board.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Value jet flight 592 takes off from Miami just after 2 in the afternoon, heading for Atlanta with 110 people on board."
+ },
+ {
+  "id": "c3g",
+  "text": "Minutes later, the crew reports smoke.",
+  "sub": "Minutes later, the crew reports smoke.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3h",
+  "text": "They try to turn back.",
+  "sub": "They try to turn back.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3i",
+  "text": "They never make it.",
+  "sub": "They never make it.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3j",
+  "text": "At two thirteen, about ten minutes after takeoff, the plane dives into the Everglades at high speed, about seventeen miles northwest of the airport.",
+  "sub": "At 2:13, about ten minutes after takeoff, the plane dives into the Everglades at high speed, about seventeen miles northwest of the airport.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "At 2.13, about 10 minutes after takeoff, the plane dives into the everglades at high speed, about 17 miles northwest of the airport."
+ },
+ {
+  "id": "c3k",
+  "text": "Rescuers arrive to find almost nothing.",
+  "sub": "Rescuers arrive to find almost nothing.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3l",
+  "text": "No big pieces of wreckage.",
+  "sub": "No big pieces of wreckage.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3m",
+  "text": "No survivors.",
+  "sub": "No survivors.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3n",
+  "text": "Just jet fuel floating on the water between the sawgrass.",
+  "sub": "Just jet fuel floating on the water between the sawgrass.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3o",
+  "text": "Recovery teams worked in waist-deep mud, with marksmen watching for alligators and snakes.",
+  "sub": "Recovery teams worked in waist-deep mud, with marksmen watching for alligators and snakes.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3p",
+  "text": "Investigators traced... the fire to the cargo hold.",
+  "sub": "Investigators traced the fire to the cargo hold.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3q",
+  "text": "A maintenance contractor had shipped chemical oxygen generators, expired and without their safety caps, listed on the paperwork as empty.",
+  "sub": "A maintenance contractor had shipped chemical oxygen generators, expired and without their safety caps, listed on the paperwork as empty.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3r",
+  "text": "They were not empty.",
+  "sub": "They were not empty.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3s",
+  "text": "Once one went off, it fed the fire with oxygen.",
+  "sub": "Once one went off, it fed the fire with oxygen.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3t",
+  "text": "After the crash, the F.A.A. ordered airlines to fit fire detection and suppression in that kind of cargo hold.",
+  "sub": "After the crash, the FAA ordered airlines to fit fire detection and suppression in that kind of cargo hold.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c3u",
+  "text": "The rules for what planes may carry, and how, were rewritten because of what investigators found in that swamp.",
+  "sub": "The rules for what planes may carry, and how, were rewritten because of what investigators found in that swamp.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4a",
+  "text": "Every G.T.A. game has its strange characters.",
+  "sub": "Every GTA game has its strange characters.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Every GT, a game has its strange characters."
+ },
+ {
+  "id": "c4b",
+  "text": "Florida supplies its own.",
+  "sub": "Florida supplies its own.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4c",
+  "text": "Since twenty thirteen, an online account has collected real headlines that start with two words: Florida Man.",
+  "sub": "Since 2013, an online account has collected real headlines that start with two words: Florida Man.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Since 2013 an online account has collected real headlines that start with two words, Florida Man."
+ },
+ {
+  "id": "c4d",
+  "text": "Journalists often credit Florida's open-records laws, which make arrest reports and mugshots easy to get.",
+  "sub": "Journalists often credit Florida's open-records laws, which make arrest reports and mugshots easy to get.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4e",
+  "text": "But other states have similar laws.",
+  "sub": "But other states have similar laws.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4f",
+  "text": "The simpler answer may be that Florida is big, strange, and very well documented.",
+  "sub": "The simpler answer may be that Florida is big, strange, and very well documented.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4g",
+  "text": "Drive south from Miami and the mainland runs out.",
+  "sub": "Drive south from Miami and the mainland runs out.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4h",
+  "text": "The Overseas Highway hops across a chain of islands to Key West, which is closer to Havana than it is to Miami.",
+  "sub": "The Overseas Highway hops across a chain of islands to Key West, which is closer to Havana than it is to Miami.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4i",
+  "text": "In April, nineteen eighty-two, the Border Patrol set up a roadblock on that highway near Florida City, searching every car for drugs and undocumented migrants.",
+  "sub": "In April 1982, the Border Patrol set up a roadblock on that highway near Florida City, searching every car for drugs and undocumented migrants.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "In April 1982, the Border Patrol set up a roadblock on that highway near Florida City, searching every car for drugs and undocumented migrants."
+ },
+ {
+  "id": "c4j",
+  "text": "Traffic backed up for miles.",
+  "sub": "Traffic backed up for miles.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4k",
+  "text": "Tourists stopped coming.",
+  "sub": "Tourists stopped coming.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4l",
+  "text": "Key West askt, petitioned, and sued.",
+  "sub": "Key West asked, petitioned and sued.",
+  "voice": "am_onyx",
+  "speed": 0.85,
+  "asr": "Key West asked petitioned and sued."
+ },
+ {
+  "id": "c4m",
+  "text": "Nothing worked.",
+  "sub": "Nothing worked.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4n",
+  "text": "So on April twenty-third, at noon in Mallory Square, the mayor of Key West read out a proclamation.",
+  "sub": "So on April 23rd, at noon in Mallory Square, the mayor of Key West read out a proclamation.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "So on April 23rd at noon in Mallory Square, the mayor of Key West read out a proclamation."
+ },
+ {
+  "id": "c4o",
+  "text": "The Florida Keys were seceding from the United States.",
+  "sub": "The Florida Keys were seceding from the United States.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4p",
+  "text": "The new nation was called the Konk Republic.",
+  "sub": "The new nation was called the Conch Republic.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "The new nation was called the Conk Republic."
+ },
+ {
+  "id": "c4q",
+  "text": "As the story goes, it surrendered almost at once, and asked for foreign aid.",
+  "sub": "As the story goes, it surrendered almost at once, and asked for foreign aid.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4r",
+  "text": "The roadblock was soon gone.",
+  "sub": "The roadblock was soon gone.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "c4s",
+  "text": "The Konk Republic still celebrates its independence every April.",
+  "sub": "The Conch Republic still celebrates its independence every April.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "The Conk Republic still celebrates its independence every April."
+ },
+ {
+  "id": "o1",
+  "text": "So, Vice City is a fiction.",
+  "sub": "Vice City is a fiction.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Vice City is a fiction."
+ },
+ {
+  "id": "o2",
+  "text": "Lee-oh-nee-da is a fiction.",
+  "sub": "Leonida is a fiction.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Leo Nida is a fiction."
+ },
+ {
+  "id": "o3",
+  "text": "But the places are real: the mall, the harbor, the swamp, the highway to the end of the islands.",
+  "sub": "But the places are real: the mall, the harbor, the swamp, the highway to the end of the islands.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "o4",
+  "text": "When G.T.A. six sends you there, you'll be driving through history.",
+  "sub": "When GTA 6 sends you there, you'll be driving through history.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "o5",
+  "text": "Subscribe for more of the real stories behind G.T.A. six.",
+  "sub": "Subscribe for more of the real stories behind GTA 6.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ }
+]

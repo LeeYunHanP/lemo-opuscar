@@ -1,0 +1,1415 @@
+{
+ "dur": 494.619,
+ "voice": [
+  {
+   "id": "i1",
+   "t": 2.6,
+   "d": 4.545,
+   "sub": "GTA 6 takes us back to Vice City, in a state called Leonida.",
+   "scene": "causeway"
+  },
+  {
+   "id": "i2",
+   "t": 7.995,
+   "d": 1.086,
+   "sub": "It's a game.",
+   "scene": "causeway"
+  },
+  {
+   "id": "i3",
+   "t": 9.931,
+   "d": 4.148,
+   "sub": "But almost everything in it is drawn from a real place: South Florida.",
+   "scene": "causeway"
+  },
+  {
+   "id": "i4",
+   "t": 16.429,
+   "d": 3.399,
+   "sub": "A city whose violence made the cover of Time magazine.",
+   "scene": "neonnight"
+  },
+  {
+   "id": "i5",
+   "t": 20.678,
+   "d": 2.358,
+   "sub": "A swamp that swallowed an airliner.",
+   "scene": "plane"
+  },
+  {
+   "id": "i6",
+   "t": 23.886,
+   "d": 5.124,
+   "sub": "A harbor that sent a hundred and twenty-five thousand people across the sea in six months.",
+   "scene": "harbor"
+  },
+  {
+   "id": "i7",
+   "t": 29.86,
+   "d": 4.246,
+   "sub": "A chain of islands that once declared independence from the United States.",
+   "scene": "highway"
+  },
+  {
+   "id": "i8",
+   "t": 36.456,
+   "d": 3.467,
+   "sub": "These are the real stories behind GTA 6.",
+   "scene": "causeway2"
+  },
+  {
+   "id": "c1a",
+   "t": 46.873,
+   "d": 2.621,
+   "sub": "July 11th, 1979.",
+   "scene": "mall"
+  },
+  {
+   "id": "c1b",
+   "t": 50.344,
+   "d": 2.053,
+   "sub": "Two-thirty in the afternoon.",
+   "scene": "mall"
+  },
+  {
+   "id": "c1c",
+   "t": 53.247,
+   "d": 4.598,
+   "sub": "Dadeland Mall, south of Miami, one of the busiest shopping centers in the city.",
+   "scene": "mall"
+  },
+  {
+   "id": "c1d",
+   "t": 60.195,
+   "d": 2.979,
+   "sub": "A delivery van pulls up outside a liquor store.",
+   "scene": "van"
+  },
+  {
+   "id": "c1e",
+   "t": 64.024,
+   "d": 3.48,
+   "sub": "Painted on its side: Happy Time Complete Party Supply.",
+   "scene": "van"
+  },
+  {
+   "id": "c1f",
+   "t": 69.854,
+   "d": 1.426,
+   "sub": "Two men walk in.",
+   "scene": "shopfar"
+  },
+  {
+   "id": "c1g",
+   "t": 72.13,
+   "d": 2.26,
+   "sub": "Seconds later, the gunfire starts.",
+   "scene": "shopfar"
+  },
+  {
+   "id": "c1h",
+   "t": 75.24,
+   "d": 3.669,
+   "sub": "The target is a Colombian trafficker who shops there regularly.",
+   "scene": "shopfar"
+  },
+  {
+   "id": "c1i",
+   "t": 79.759,
+   "d": 2.584,
+   "sub": "He is killed, and so is the man with him.",
+   "scene": "shopfar"
+  },
+  {
+   "id": "c1j",
+   "t": 84.693,
+   "d": 2.904,
+   "sub": "The shooters run back to the van and drive away.",
+   "scene": "vanaway"
+  },
+  {
+   "id": "c1k",
+   "t": 88.447,
+   "d": 6.243,
+   "sub": "Police find it later, abandoned at the far end of the parking lot, with guns and bulletproof vests inside.",
+   "scene": "vanparked"
+  },
+  {
+   "id": "c1l",
+   "t": 95.54,
+   "d": 1.791,
+   "sub": "They call it a war wagon.",
+   "scene": "vanparked"
+  },
+  {
+   "id": "c1m",
+   "t": 99.681,
+   "d": 5.699,
+   "sub": "The first seven months of 1979 were called the bloodiest in South Florida's history.",
+   "scene": "newsstand"
+  },
+  {
+   "id": "c1n",
+   "t": 106.23,
+   "d": 2.668,
+   "sub": "Cocaine was pouring in, and so was the money.",
+   "scene": "newsstand"
+  },
+  {
+   "id": "c1o",
+   "t": 109.748,
+   "d": 4.47,
+   "sub": "Rivals settled scores in public, in daylight, with automatic weapons.",
+   "scene": "newsstand"
+  },
+  {
+   "id": "c1p",
+   "t": 115.068,
+   "d": 3.935,
+   "sub": "The newspapers gave the new killers a name: the Cocaine Cowboys.",
+   "scene": "newsstand"
+  },
+  {
+   "id": "c1q",
+   "t": 121.353,
+   "d": 7.303,
+   "sub": "By 1981, the county morgue had run out of room, and the medical examiner leased a refrigerated truck to hold the dead.",
+   "scene": "truck"
+  },
+  {
+   "id": "c1r",
+   "t": 129.506,
+   "d": 5.656,
+   "sub": "That November, Time magazine put South Florida on its cover, under two words: Paradise Lost.",
+   "scene": "magazine"
+  },
+  {
+   "id": "c1s",
+   "t": 137.512,
+   "d": 4.712,
+   "sub": "A few years later, television turned the same city into pastel suits and neon.",
+   "scene": "neonnight"
+  },
+  {
+   "id": "c1t",
+   "t": 143.074,
+   "d": 2.264,
+   "sub": "That's the Vice City most of us know.",
+   "scene": "neonnight"
+  },
+  {
+   "id": "c1u",
+   "t": 146.188,
+   "d": 1.779,
+   "sub": "The real one came first.",
+   "scene": "neonnight"
+  },
+  {
+   "id": "c2a",
+   "t": 154.917,
+   "d": 1.782,
+   "sub": "April 1980.",
+   "scene": "embassy"
+  },
+  {
+   "id": "c2b",
+   "t": 157.549,
+   "d": 3.974,
+   "sub": "In Havana, a bus crashes through the gate of the Peruvian embassy.",
+   "scene": "embassy"
+  },
+  {
+   "id": "c2c",
+   "t": 162.373,
+   "d": 4.898,
+   "sub": "Within days, about ten thousand Cubans crowd into its gardens, asking to leave.",
+   "scene": "embassy"
+  },
+  {
+   "id": "c2d",
+   "t": 168.121,
+   "d": 5.729,
+   "sub": "Fidel Castro answers with a surprise: anyone who wants to go can go, from the port of Mariel.",
+   "scene": "harbor"
+  },
+  {
+   "id": "c2e",
+   "t": 176.2,
+   "d": 6.328,
+   "sub": "Boats from Florida race across the straits to pick them up: fishing boats, pleasure cruisers, anything that floats.",
+   "scene": "boat"
+  },
+  {
+   "id": "c2f",
+   "t": 183.378,
+   "d": 5.93,
+   "sub": "Between April and October, around a hundred and twenty-five thousand people arrive in South Florida.",
+   "scene": "boat"
+  },
+  {
+   "id": "c2g",
+   "t": 191.658,
+   "d": 2.063,
+   "sub": "Most were ordinary families.",
+   "scene": "dock"
+  },
+  {
+   "id": "c2h",
+   "t": 194.571,
+   "d": 7.596,
+   "sub": "But Cuba also put people from its prisons and mental hospitals on the boats, and that small group shaped how the whole exodus was seen.",
+   "scene": "dock"
+  },
+  {
+   "id": "c2i",
+   "t": 204.517,
+   "d": 4.11,
+   "sub": "Miami had to take in a small city's worth of people in six months.",
+   "scene": "tents"
+  },
+  {
+   "id": "c2j",
+   "t": 209.477,
+   "d": 3.574,
+   "sub": "Newcomers slept in tent camps and in a football stadium.",
+   "scene": "tents"
+  },
+  {
+   "id": "c2k",
+   "t": 213.901,
+   "d": 3.151,
+   "sub": "In the same weeks, riots tore through parts of the city.",
+   "scene": "riots"
+  },
+  {
+   "id": "c2l",
+   "t": 219.402,
+   "d": 2.221,
+   "sub": "Hollywood took the story and ran.",
+   "scene": "marquee"
+  },
+  {
+   "id": "c2m",
+   "t": 222.473,
+   "d": 9.807,
+   "sub": "A gangster film made its fictional hero a Mariel refugee who rises through the cocaine trade, and it became a major inspiration for the original Vice City.",
+   "scene": "marquee"
+  },
+  {
+   "id": "c2n",
+   "t": 234.63,
+   "d": 2.394,
+   "sub": "But the real Mariel isn't that movie.",
+   "scene": "street"
+  },
+  {
+   "id": "c2o",
+   "t": 237.874,
+   "d": 7.887,
+   "sub": "It's tens of thousands of families who built a new Miami: the city whose food, music and Spanish-speaking streets you'll see in Leonida.",
+   "scene": "street"
+  },
+  {
+   "id": "c3a",
+   "t": 252.711,
+   "d": 5.24,
+   "sub": "From the air, the Everglades look like a field that never ends: sawgrass, water and sky.",
+   "scene": "plane"
+  },
+  {
+   "id": "c3b",
+   "t": 258.801,
+   "d": 1.746,
+   "sub": "It isn't really a swamp.",
+   "scene": "plane"
+  },
+  {
+   "id": "c3c",
+   "t": 261.397,
+   "d": 4.26,
+   "sub": "It's a slow, shallow river, flowing south across the bottom of Florida.",
+   "scene": "plane"
+  },
+  {
+   "id": "c3d",
+   "t": 266.507,
+   "d": 5.763,
+   "sub": "Much of what's left is protected inside a national park, dedicated in 1947.",
+   "scene": "plane"
+  },
+  {
+   "id": "c3e",
+   "t": 274.62,
+   "d": 2.405,
+   "sub": "May 11th, 1996.",
+   "scene": "terminal"
+  },
+  {
+   "id": "c3f",
+   "t": 277.875,
+   "d": 9.009,
+   "sub": "ValuJet Flight 592 takes off from Miami just after two in the afternoon, heading for Atlanta with 110 people on board.",
+   "scene": "terminal"
+  },
+  {
+   "id": "c3g",
+   "t": 287.734,
+   "d": 2.387,
+   "sub": "Minutes later, the crew reports smoke.",
+   "scene": "cockpit"
+  },
+  {
+   "id": "c3h",
+   "t": 290.971,
+   "d": 1.46,
+   "sub": "They try to turn back.",
+   "scene": "cockpit"
+  },
+  {
+   "id": "c3i",
+   "t": 293.281,
+   "d": 1.252,
+   "sub": "They never make it.",
+   "scene": "cockpit"
+  },
+  {
+   "id": "c3j",
+   "t": 296.983,
+   "d": 8.626,
+   "sub": "At 2:13, about ten minutes after takeoff, the plane dives into the Everglades at high speed, about seventeen miles northwest of the airport.",
+   "scene": "shore"
+  },
+  {
+   "id": "c3k",
+   "t": 307.959,
+   "d": 2.648,
+   "sub": "Rescuers arrive to find almost nothing.",
+   "scene": "search"
+  },
+  {
+   "id": "c3l",
+   "t": 311.457,
+   "d": 2.17,
+   "sub": "No big pieces of wreckage.",
+   "scene": "search"
+  },
+  {
+   "id": "c3m",
+   "t": 314.477,
+   "d": 1.355,
+   "sub": "No survivors.",
+   "scene": "search"
+  },
+  {
+   "id": "c3n",
+   "t": 316.682,
+   "d": 3.476,
+   "sub": "Just jet fuel floating on the water between the sawgrass.",
+   "scene": "sheen"
+  },
+  {
+   "id": "c3o",
+   "t": 321.008,
+   "d": 5.447,
+   "sub": "Recovery teams worked in waist-deep mud, with marksmen watching for alligators and snakes.",
+   "scene": "recovery"
+  },
+  {
+   "id": "c3p",
+   "t": 328.805,
+   "d": 3.355,
+   "sub": "Investigators traced the fire to the cargo hold.",
+   "scene": "notice"
+  },
+  {
+   "id": "c3q",
+   "t": 333.01,
+   "d": 8.091,
+   "sub": "A maintenance contractor had shipped chemical oxygen generators, expired and without their safety caps, listed on the paperwork as empty.",
+   "scene": "notice"
+  },
+  {
+   "id": "c3r",
+   "t": 341.951,
+   "d": 1.336,
+   "sub": "They were not empty.",
+   "scene": "notice"
+  },
+  {
+   "id": "c3s",
+   "t": 344.137,
+   "d": 3.134,
+   "sub": "Once one went off, it fed the fire with oxygen.",
+   "scene": "notice"
+  },
+  {
+   "id": "c3t",
+   "t": 349.621,
+   "d": 6.77,
+   "sub": "After the crash, the FAA ordered airlines to fit fire detection and suppression in that kind of cargo hold.",
+   "scene": "terminaldusk"
+  },
+  {
+   "id": "c3u",
+   "t": 357.241,
+   "d": 6.138,
+   "sub": "The rules for what planes may carry, and how, were rewritten because of what investigators found in that swamp.",
+   "scene": "swampdusk"
+  },
+  {
+   "id": "c4a",
+   "t": 370.329,
+   "d": 3.256,
+   "sub": "Every GTA game has its strange characters.",
+   "scene": "tv"
+  },
+  {
+   "id": "c4b",
+   "t": 374.435,
+   "d": 2.001,
+   "sub": "Florida supplies its own.",
+   "scene": "tv"
+  },
+  {
+   "id": "c4c",
+   "t": 377.286,
+   "d": 6.577,
+   "sub": "Since 2013, an online account has collected real headlines that start with two words: Florida Man.",
+   "scene": "tv"
+  },
+  {
+   "id": "c4d",
+   "t": 386.213,
+   "d": 6.3,
+   "sub": "Journalists often credit Florida's open-records laws, which make arrest reports and mugshots easy to get.",
+   "scene": "tv"
+  },
+  {
+   "id": "c4e",
+   "t": 393.363,
+   "d": 2.287,
+   "sub": "But other states have similar laws.",
+   "scene": "tv"
+  },
+  {
+   "id": "c4f",
+   "t": 396.5,
+   "d": 4.912,
+   "sub": "The simpler answer may be that Florida is big, strange, and very well documented.",
+   "scene": "tv"
+  },
+  {
+   "id": "c4g",
+   "t": 403.762,
+   "d": 3.123,
+   "sub": "Drive south from Miami and the mainland runs out.",
+   "scene": "highway"
+  },
+  {
+   "id": "c4h",
+   "t": 407.735,
+   "d": 6.826,
+   "sub": "The Overseas Highway hops across a chain of islands to Key West, which is closer to Havana than it is to Miami.",
+   "scene": "highway"
+  },
+  {
+   "id": "c4i",
+   "t": 416.911,
+   "d": 9.427,
+   "sub": "In April 1982, the Border Patrol set up a roadblock on that highway near Florida City, searching every car for drugs and undocumented migrants.",
+   "scene": "jam"
+  },
+  {
+   "id": "c4j",
+   "t": 427.188,
+   "d": 1.93,
+   "sub": "Traffic backed up for miles.",
+   "scene": "jam"
+  },
+  {
+   "id": "c4k",
+   "t": 429.968,
+   "d": 1.718,
+   "sub": "Tourists stopped coming.",
+   "scene": "jam"
+  },
+  {
+   "id": "c4l",
+   "t": 432.536,
+   "d": 2.683,
+   "sub": "Key West asked, petitioned and sued.",
+   "scene": "square"
+  },
+  {
+   "id": "c4m",
+   "t": 436.069,
+   "d": 1.204,
+   "sub": "Nothing worked.",
+   "scene": "square"
+  },
+  {
+   "id": "c4n",
+   "t": 439.623,
+   "d": 5.811,
+   "sub": "So on April 23rd, at noon in Mallory Square, the mayor of Key West read out a proclamation.",
+   "scene": "square"
+  },
+  {
+   "id": "c4o",
+   "t": 446.284,
+   "d": 3.292,
+   "sub": "The Florida Keys were seceding from the United States.",
+   "scene": "square"
+  },
+  {
+   "id": "c4p",
+   "t": 450.426,
+   "d": 2.754,
+   "sub": "The new nation was called the Conch Republic.",
+   "scene": "square"
+  },
+  {
+   "id": "c4q",
+   "t": 454.03,
+   "d": 4.347,
+   "sub": "As the story goes, it surrendered almost at once, and asked for foreign aid.",
+   "scene": "square"
+  },
+  {
+   "id": "c4r",
+   "t": 460.727,
+   "d": 2.006,
+   "sub": "The roadblock was soon gone.",
+   "scene": "sunset"
+  },
+  {
+   "id": "c4s",
+   "t": 463.583,
+   "d": 3.954,
+   "sub": "The Conch Republic still celebrates its independence every April.",
+   "scene": "sunset"
+  },
+  {
+   "id": "o1",
+   "t": 469.587,
+   "d": 1.646,
+   "sub": "Vice City is a fiction.",
+   "scene": "causeway"
+  },
+  {
+   "id": "o2",
+   "t": 472.083,
+   "d": 2.118,
+   "sub": "Leonida is a fiction.",
+   "scene": "causeway"
+  },
+  {
+   "id": "o3",
+   "t": 475.051,
+   "d": 5.105,
+   "sub": "But the places are real: the mall, the harbor, the swamp, the highway to the end of the islands.",
+   "scene": "glimpse"
+  },
+  {
+   "id": "o4",
+   "t": 482.506,
+   "d": 3.829,
+   "sub": "When GTA 6 sends you there, you'll be driving through history.",
+   "scene": "causeway3"
+  },
+  {
+   "id": "o5",
+   "t": 487.185,
+   "d": 4.234,
+   "sub": "Subscribe for more of the real stories behind GTA 6.",
+   "scene": "causeway3"
+  }
+ ],
+ "caps": [
+  {
+   "t0": 2.6,
+   "t1": 7.745,
+   "text": "GTA 6 takes us back to Vice City, in a state called Leonida."
+  },
+  {
+   "t0": 7.995,
+   "t1": 9.795,
+   "text": "It's a game."
+  },
+  {
+   "t0": 9.931,
+   "t1": 14.679,
+   "text": "But almost everything in it is drawn from a real place: South Florida."
+  },
+  {
+   "t0": 16.429,
+   "t1": 20.428,
+   "text": "A city whose violence made the cover of Time magazine."
+  },
+  {
+   "t0": 20.678,
+   "t1": 23.636,
+   "text": "A swamp that swallowed an airliner."
+  },
+  {
+   "t0": 23.886,
+   "t1": 29.61,
+   "text": "A harbor that sent a hundred and twenty-five thousand people across the sea in six months."
+  },
+  {
+   "t0": 29.86,
+   "t1": 34.706,
+   "text": "A chain of islands that once declared independence from the United States."
+  },
+  {
+   "t0": 36.456,
+   "t1": 40.523,
+   "text": "These are the real stories behind GTA 6."
+  },
+  {
+   "t0": 46.873,
+   "t1": 50.094,
+   "text": "July 11th, 1979."
+  },
+  {
+   "t0": 50.344,
+   "t1": 52.997,
+   "text": "Two-thirty in the afternoon."
+  },
+  {
+   "t0": 53.247,
+   "t1": 58.445,
+   "text": "Dadeland Mall, south of Miami, one of the busiest shopping centers in the city."
+  },
+  {
+   "t0": 60.195,
+   "t1": 63.774,
+   "text": "A delivery van pulls up outside a liquor store."
+  },
+  {
+   "t0": 64.024,
+   "t1": 68.104,
+   "text": "Painted on its side: Happy Time Complete Party Supply."
+  },
+  {
+   "t0": 69.854,
+   "t1": 71.88,
+   "text": "Two men walk in."
+  },
+  {
+   "t0": 72.13,
+   "t1": 74.99,
+   "text": "Seconds later, the gunfire starts."
+  },
+  {
+   "t0": 75.24,
+   "t1": 79.509,
+   "text": "The target is a Colombian trafficker who shops there regularly."
+  },
+  {
+   "t0": 79.759,
+   "t1": 82.943,
+   "text": "He is killed, and so is the man with him."
+  },
+  {
+   "t0": 84.693,
+   "t1": 88.197,
+   "text": "The shooters run back to the van and drive away."
+  },
+  {
+   "t0": 88.447,
+   "t1": 95.29,
+   "text": "Police find it later, abandoned at the far end of the parking lot, with guns and bulletproof vests inside."
+  },
+  {
+   "t0": 95.54,
+   "t1": 97.931,
+   "text": "They call it a war wagon."
+  },
+  {
+   "t0": 99.681,
+   "t1": 105.98,
+   "text": "The first seven months of 1979 were called the bloodiest in South Florida's history."
+  },
+  {
+   "t0": 106.23,
+   "t1": 109.498,
+   "text": "Cocaine was pouring in, and so was the money."
+  },
+  {
+   "t0": 109.748,
+   "t1": 114.818,
+   "text": "Rivals settled scores in public, in daylight, with automatic weapons."
+  },
+  {
+   "t0": 115.068,
+   "t1": 119.603,
+   "text": "The newspapers gave the new killers a name: the Cocaine Cowboys."
+  },
+  {
+   "t0": 121.353,
+   "t1": 129.256,
+   "text": "By 1981, the county morgue had run out of room, and the medical examiner leased a refrigerated truck to hold the dead."
+  },
+  {
+   "t0": 129.506,
+   "t1": 135.762,
+   "text": "That November, Time magazine put South Florida on its cover, under two words: Paradise Lost."
+  },
+  {
+   "t0": 137.512,
+   "t1": 142.824,
+   "text": "A few years later, television turned the same city into pastel suits and neon."
+  },
+  {
+   "t0": 143.074,
+   "t1": 145.938,
+   "text": "That's the Vice City most of us know."
+  },
+  {
+   "t0": 146.188,
+   "t1": 148.567,
+   "text": "The real one came first."
+  },
+  {
+   "t0": 154.917,
+   "t1": 157.299,
+   "text": "April 1980."
+  },
+  {
+   "t0": 157.549,
+   "t1": 162.123,
+   "text": "In Havana, a bus crashes through the gate of the Peruvian embassy."
+  },
+  {
+   "t0": 162.373,
+   "t1": 167.871,
+   "text": "Within days, about ten thousand Cubans crowd into its gardens, asking to leave."
+  },
+  {
+   "t0": 168.121,
+   "t1": 174.45,
+   "text": "Fidel Castro answers with a surprise: anyone who wants to go can go, from the port of Mariel."
+  },
+  {
+   "t0": 176.2,
+   "t1": 183.128,
+   "text": "Boats from Florida race across the straits to pick them up: fishing boats, pleasure cruisers, anything that floats."
+  },
+  {
+   "t0": 183.378,
+   "t1": 189.908,
+   "text": "Between April and October, around a hundred and twenty-five thousand people arrive in South Florida."
+  },
+  {
+   "t0": 191.658,
+   "t1": 194.321,
+   "text": "Most were ordinary families."
+  },
+  {
+   "t0": 194.571,
+   "t1": 202.767,
+   "text": "But Cuba also put people from its prisons and mental hospitals on the boats, and that small group shaped how the whole exodus was seen."
+  },
+  {
+   "t0": 204.517,
+   "t1": 209.227,
+   "text": "Miami had to take in a small city's worth of people in six months."
+  },
+  {
+   "t0": 209.477,
+   "t1": 213.651,
+   "text": "Newcomers slept in tent camps and in a football stadium."
+  },
+  {
+   "t0": 213.901,
+   "t1": 217.652,
+   "text": "In the same weeks, riots tore through parts of the city."
+  },
+  {
+   "t0": 219.402,
+   "t1": 222.223,
+   "text": "Hollywood took the story and ran."
+  },
+  {
+   "t0": 222.473,
+   "t1": 232.88,
+   "text": "A gangster film made its fictional hero a Mariel refugee who rises through the cocaine trade, and it became a major inspiration for the original Vice City."
+  },
+  {
+   "t0": 234.63,
+   "t1": 237.624,
+   "text": "But the real Mariel isn't that movie."
+  },
+  {
+   "t0": 237.874,
+   "t1": 246.361,
+   "text": "It's tens of thousands of families who built a new Miami: the city whose food, music and Spanish-speaking streets you'll see in Leonida."
+  },
+  {
+   "t0": 252.711,
+   "t1": 258.551,
+   "text": "From the air, the Everglades look like a field that never ends: sawgrass, water and sky."
+  },
+  {
+   "t0": 258.801,
+   "t1": 261.147,
+   "text": "It isn't really a swamp."
+  },
+  {
+   "t0": 261.397,
+   "t1": 266.257,
+   "text": "It's a slow, shallow river, flowing south across the bottom of Florida."
+  },
+  {
+   "t0": 266.507,
+   "t1": 272.87,
+   "text": "Much of what's left is protected inside a national park, dedicated in 1947."
+  },
+  {
+   "t0": 274.62,
+   "t1": 277.625,
+   "text": "May 11th, 1996."
+  },
+  {
+   "t0": 277.875,
+   "t1": 287.484,
+   "text": "ValuJet Flight 592 takes off from Miami just after two in the afternoon, heading for Atlanta with 110 people on board."
+  },
+  {
+   "t0": 287.734,
+   "t1": 290.721,
+   "text": "Minutes later, the crew reports smoke."
+  },
+  {
+   "t0": 290.971,
+   "t1": 293.031,
+   "text": "They try to turn back."
+  },
+  {
+   "t0": 293.281,
+   "t1": 295.113,
+   "text": "They never make it."
+  },
+  {
+   "t0": 295.133,
+   "t1": 296.963,
+   "text": "[SILENCE]"
+  },
+  {
+   "t0": 296.983,
+   "t1": 306.209,
+   "text": "At 2:13, about ten minutes after takeoff, the plane dives into the Everglades at high speed, about seventeen miles northwest of the airport."
+  },
+  {
+   "t0": 307.959,
+   "t1": 311.207,
+   "text": "Rescuers arrive to find almost nothing."
+  },
+  {
+   "t0": 311.457,
+   "t1": 314.227,
+   "text": "No big pieces of wreckage."
+  },
+  {
+   "t0": 314.477,
+   "t1": 316.432,
+   "text": "No survivors."
+  },
+  {
+   "t0": 316.682,
+   "t1": 320.758,
+   "text": "Just jet fuel floating on the water between the sawgrass."
+  },
+  {
+   "t0": 321.008,
+   "t1": 327.055,
+   "text": "Recovery teams worked in waist-deep mud, with marksmen watching for alligators and snakes."
+  },
+  {
+   "t0": 328.805,
+   "t1": 332.76,
+   "text": "Investigators traced the fire to the cargo hold."
+  },
+  {
+   "t0": 333.01,
+   "t1": 341.701,
+   "text": "A maintenance contractor had shipped chemical oxygen generators, expired and without their safety caps, listed on the paperwork as empty."
+  },
+  {
+   "t0": 341.951,
+   "t1": 343.887,
+   "text": "They were not empty."
+  },
+  {
+   "t0": 344.137,
+   "t1": 347.871,
+   "text": "Once one went off, it fed the fire with oxygen."
+  },
+  {
+   "t0": 349.621,
+   "t1": 356.991,
+   "text": "After the crash, the FAA ordered airlines to fit fire detection and suppression in that kind of cargo hold."
+  },
+  {
+   "t0": 357.241,
+   "t1": 363.979,
+   "text": "The rules for what planes may carry, and how, were rewritten because of what investigators found in that swamp."
+  },
+  {
+   "t0": 370.329,
+   "t1": 374.185,
+   "text": "Every GTA game has its strange characters."
+  },
+  {
+   "t0": 374.435,
+   "t1": 377.036,
+   "text": "Florida supplies its own."
+  },
+  {
+   "t0": 377.286,
+   "t1": 384.463,
+   "text": "Since 2013, an online account has collected real headlines that start with two words: Florida Man."
+  },
+  {
+   "t0": 386.213,
+   "t1": 393.113,
+   "text": "Journalists often credit Florida's open-records laws, which make arrest reports and mugshots easy to get."
+  },
+  {
+   "t0": 393.363,
+   "t1": 396.25,
+   "text": "But other states have similar laws."
+  },
+  {
+   "t0": 396.5,
+   "t1": 402.012,
+   "text": "The simpler answer may be that Florida is big, strange, and very well documented."
+  },
+  {
+   "t0": 403.762,
+   "t1": 407.485,
+   "text": "Drive south from Miami and the mainland runs out."
+  },
+  {
+   "t0": 407.735,
+   "t1": 415.161,
+   "text": "The Overseas Highway hops across a chain of islands to Key West, which is closer to Havana than it is to Miami."
+  },
+  {
+   "t0": 416.911,
+   "t1": 426.938,
+   "text": "In April 1982, the Border Patrol set up a roadblock on that highway near Florida City, searching every car for drugs and undocumented migrants."
+  },
+  {
+   "t0": 427.188,
+   "t1": 429.718,
+   "text": "Traffic backed up for miles."
+  },
+  {
+   "t0": 429.968,
+   "t1": 432.286,
+   "text": "Tourists stopped coming."
+  },
+  {
+   "t0": 432.536,
+   "t1": 435.819,
+   "text": "Key West asked, petitioned and sued."
+  },
+  {
+   "t0": 436.069,
+   "t1": 437.873,
+   "text": "Nothing worked."
+  },
+  {
+   "t0": 439.623,
+   "t1": 446.034,
+   "text": "So on April 23rd, at noon in Mallory Square, the mayor of Key West read out a proclamation."
+  },
+  {
+   "t0": 446.284,
+   "t1": 450.176,
+   "text": "The Florida Keys were seceding from the United States."
+  },
+  {
+   "t0": 450.426,
+   "t1": 453.78,
+   "text": "The new nation was called the Conch Republic."
+  },
+  {
+   "t0": 454.03,
+   "t1": 458.977,
+   "text": "As the story goes, it surrendered almost at once, and asked for foreign aid."
+  },
+  {
+   "t0": 460.727,
+   "t1": 463.333,
+   "text": "The roadblock was soon gone."
+  },
+  {
+   "t0": 463.583,
+   "t1": 468.137,
+   "text": "The Conch Republic still celebrates its independence every April."
+  },
+  {
+   "t0": 469.587,
+   "t1": 471.833,
+   "text": "Vice City is a fiction."
+  },
+  {
+   "t0": 472.083,
+   "t1": 474.801,
+   "text": "Leonida is a fiction."
+  },
+  {
+   "t0": 475.051,
+   "t1": 480.756,
+   "text": "But the places are real: the mall, the harbor, the swamp, the highway to the end of the islands."
+  },
+  {
+   "t0": 482.506,
+   "t1": 486.935,
+   "text": "When GTA 6 sends you there, you'll be driving through history."
+  },
+  {
+   "t0": 487.185,
+   "t1": 492.019,
+   "text": "Subscribe for more of the real stories behind GTA 6."
+  }
+ ],
+ "scenes": [
+  [
+   "causeway",
+   0,
+   16.029
+  ],
+  [
+   "neonnight",
+   16.029,
+   20.278
+  ],
+  [
+   "plane",
+   20.278,
+   23.486
+  ],
+  [
+   "harbor",
+   23.486,
+   29.46
+  ],
+  [
+   "highway",
+   29.46,
+   36.056
+  ],
+  [
+   "causeway2",
+   36.056,
+   41.573
+  ],
+  [
+   "card1",
+   41.573,
+   46.473
+  ],
+  [
+   "mall",
+   46.473,
+   59.795
+  ],
+  [
+   "van",
+   59.795,
+   69.454
+  ],
+  [
+   "shopfar",
+   69.454,
+   84.293
+  ],
+  [
+   "vanaway",
+   84.293,
+   88.047
+  ],
+  [
+   "vanparked",
+   88.047,
+   99.281
+  ],
+  [
+   "newsstand",
+   99.281,
+   120.953
+  ],
+  [
+   "truck",
+   120.953,
+   129.106
+  ],
+  [
+   "magazine",
+   129.106,
+   137.112
+  ],
+  [
+   "neonnight",
+   137.112,
+   149.617
+  ],
+  [
+   "card2",
+   149.617,
+   154.517
+  ],
+  [
+   "embassy",
+   154.517,
+   167.721
+  ],
+  [
+   "harbor",
+   167.721,
+   175.8
+  ],
+  [
+   "boat",
+   175.8,
+   191.258
+  ],
+  [
+   "dock",
+   191.258,
+   204.117
+  ],
+  [
+   "tents",
+   204.117,
+   213.501
+  ],
+  [
+   "riots",
+   213.501,
+   219.002
+  ],
+  [
+   "marquee",
+   219.002,
+   234.23
+  ],
+  [
+   "street",
+   234.23,
+   247.411
+  ],
+  [
+   "card3",
+   247.411,
+   252.311
+  ],
+  [
+   "plane",
+   252.311,
+   274.22
+  ],
+  [
+   "terminal",
+   274.22,
+   287.334
+  ],
+  [
+   "cockpit",
+   287.334,
+   295.133
+  ],
+  [
+   "silence",
+   295.133,
+   296.533
+  ],
+  [
+   "shore",
+   296.533,
+   307.559
+  ],
+  [
+   "search",
+   307.559,
+   316.282
+  ],
+  [
+   "sheen",
+   316.282,
+   320.608
+  ],
+  [
+   "recovery",
+   320.608,
+   328.405
+  ],
+  [
+   "notice",
+   328.405,
+   349.221
+  ],
+  [
+   "terminaldusk",
+   349.221,
+   356.841
+  ],
+  [
+   "swampdusk",
+   356.841,
+   365.029
+  ],
+  [
+   "card4",
+   365.029,
+   369.929
+  ],
+  [
+   "tv",
+   369.929,
+   403.362
+  ],
+  [
+   "highway",
+   403.362,
+   416.511
+  ],
+  [
+   "jam",
+   416.511,
+   432.136
+  ],
+  [
+   "square",
+   432.136,
+   460.327
+  ],
+  [
+   "sunset",
+   460.327,
+   469.187
+  ],
+  [
+   "causeway",
+   469.187,
+   474.651
+  ],
+  [
+   "glimpse",
+   474.651,
+   482.106
+  ],
+  [
+   "causeway3",
+   482.106,
+   494.619
+  ]
+ ],
+ "cards": [
+  {
+   "n": "1",
+   "title": "COCAINE COWBOYS",
+   "t0": 41.573,
+   "t1": 46.173
+  },
+  {
+   "n": "2",
+   "title": "THE BOATLIFT",
+   "t0": 149.617,
+   "t1": 154.217
+  },
+  {
+   "n": "3",
+   "title": "THE SWAMP",
+   "t0": 247.411,
+   "t1": 252.011
+  },
+  {
+   "n": "4",
+   "title": "THE END OF THE ROAD",
+   "t0": 365.029,
+   "t1": 369.629
+  }
+ ],
+ "tears": [
+  16.029,
+  20.278,
+  23.486,
+  29.46,
+  36.056,
+  41.573,
+  46.473,
+  59.795,
+  69.454,
+  84.293,
+  88.047,
+  99.281,
+  120.953,
+  129.106,
+  137.112,
+  149.617,
+  154.517,
+  167.721,
+  175.8,
+  191.258,
+  204.117,
+  213.501,
+  219.002,
+  234.23,
+  247.411,
+  252.311,
+  274.22,
+  287.334,
+  295.133,
+  296.533,
+  307.559,
+  316.282,
+  320.608,
+  328.405,
+  349.221,
+  356.841,
+  365.029,
+  369.929,
+  403.362,
+  416.511,
+  432.136,
+  460.327,
+  469.187,
+  474.651,
+  482.106
+ ],
+ "title": [
+  36.656000000000006,
+  41.056000000000004
+ ],
+ "glimpse": [
+  474.651,
+  480.456
+ ],
+ "bat_blink": 482.506,
+ "freeze": 492.819,
+ "off": [
+  492.91900000000004,
+  493.319
+ ],
+ "silence": [
+  295.133,
+  296.533
+ ],
+ "gunfire": 73.42999999999999,
+ "vansign": 63.824,
+ "crowd": [
+  157.549,
+  167.271
+ ],
+ "bus": 159.149,
+ "flag": 449.926,
+ "square_fill": [
+  439.623,
+  448.284
+ ]
+}
