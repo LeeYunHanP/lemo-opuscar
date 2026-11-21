@@ -358,7 +358,7 @@ function frame(t) {
   else { E.begin([0, 0, 0]); E.finish({ ...POST.night, expo: 0, ground: [0, 0, 0] }); }
   // subtitles
   const v = TL.voice.find(v => t >= v.t && t < v.t1);
-  subEl.style.opacity = v ? 1 : 0; if (v && subTxt.textContent !== v.sub) subTxt.textContent = v.sub;
+  subEl.style.opacity = v && !location.search.includes('nosub') ? 1 : 0; if (v && subTxt.textContent !== v.sub) subTxt.textContent = v.sub;
 }
 
 // every on-screen text, for the reading-time check (subtitles are checked by their .srt)

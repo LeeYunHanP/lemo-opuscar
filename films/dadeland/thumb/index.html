@@ -1,0 +1,18 @@
+<!doctype html><html><head><meta charset="utf-8"><link rel="stylesheet" href="../fonts/fonts.css">
+<style>
+html,body{margin:0;width:1080px;height:1920px;overflow:hidden;background:#000}
+#bg{position:absolute;inset:0;width:1080px;height:1920px;object-fit:cover}
+#shade{position:absolute;left:0;right:0;bottom:0;height:820px;background:linear-gradient(to bottom,rgba(10,8,10,0),rgba(10,8,10,.88) 32%,rgba(10,8,10,.96))}
+#t{position:absolute;left:70px;right:70px;bottom:250px;font-family:'Cormorant Garamond',serif;color:#f4ede0;text-shadow:0 4px 18px rgba(0,0,0,.8)}
+.k{font-weight:700;font-size:62px;letter-spacing:.08em;color:#ff3d8b;margin-bottom:12px}
+.h{font-weight:700;font-size:132px;line-height:.98;letter-spacing:-.01em}
+.h em{font-style:normal;color:#22d3c5}
+</style></head><body>
+<img id="bg"><div id="shade"></div><div id="t"><div class="k">MIAMI · JULY 11, 1979</div><div class="h" id="h"></div></div>
+<script>
+const q=new URLSearchParams(location.search), v=q.get('v')||'a';
+document.getElementById('bg').src=v+'.png';
+document.getElementById('h').innerHTML = v==='a' ? 'The real crime<br>behind <em>Vice City</em>' : 'The real history<br>behind <em>Vice City</em>';
+window.DUR=1; window.render=()=>{};
+Promise.all([document.fonts.load('700 100px "Cormorant Garamond"'), new Promise(r=>document.getElementById('bg').onload=r)]).then(()=>{window.READY=true});
+</script></body></html>
