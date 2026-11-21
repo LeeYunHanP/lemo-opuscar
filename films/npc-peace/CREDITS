@@ -1,0 +1,8 @@
+Last Days of Peace: credits for third-party material
+
+Picture: drawn in code (Canvas 2D); stick-figure rig after the library's styles/stick-explainer demo (MIT, see the library's LICENSE).
+Music samples (CC0 1.0): Versilian Community Sample Library (Versilian Studios) — marimba, xylophone, glockenspiel, vibraphone, harp, shaker, gran cassa, clash cymbals, toms, snare; VS Chamber Orchestra: Community Edition (Versilian Studios) — contrabass pizzicato; FreePats — kalimba.
+Sound effects: synthesised in code (core/audio/sfx.py).
+Fonts: Jost by indestructible type* — SIL Open Font License 1.1; Noto Color Emoji (one glyph, 😇) by Google — SIL Open Font License 1.1; both via Google Fonts.
+
+No game footage, logos or likenesses of real people are used.

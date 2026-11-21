@@ -1,0 +1,9 @@
+The Swamp: credits for third-party material
+
+Picture: drawn in code (Canvas 2D). VHS camcorder pass and OSD dot-matrix font adapted from the library's styles/backrooms demo (MIT, see the library's LICENSE).
+Voice: Kokoro-82M text-to-speech (kokoro-onnx), voice "am_onyx" — Apache License 2.0 (model: hexgrad/Kokoro-82M).
+Speech check: faster-whisper "base.en" — MIT.
+Sound: synthesised in code (core/audio/sfx.py); no music.
+Fonts: IBM Plex Mono and IBM Plex Sans Condensed by IBM — SIL Open Font License 1.1, via Google Fonts.
+
+The aircraft is an unmarked generic twin-jet silhouette; the cargo notice, its form number and wording are invented. Nothing in the film is real footage. No game footage, logos or likenesses of real people are used.

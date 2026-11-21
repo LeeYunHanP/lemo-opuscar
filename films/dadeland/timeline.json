@@ -1,0 +1,186 @@
+{
+ "dur": 57.2,
+ "voice": [
+  {
+   "id": "l01",
+   "t": 0.5,
+   "d": 3.722,
+   "sub": "In GTA 6, you can rob a store in broad daylight.",
+   "t1": 4.822
+  },
+  {
+   "id": "l02",
+   "t": 4.9,
+   "d": 3.103,
+   "sub": "In real Miami, something worse actually happened.",
+   "t1": 8.603
+  },
+  {
+   "id": "l03",
+   "t": 8.7,
+   "d": 2.621,
+   "sub": "July 11th, 1979.",
+   "t1": 11.921
+  },
+  {
+   "id": "l04",
+   "t": 12.9,
+   "d": 3.527,
+   "sub": "Dadeland Mall, one of the busiest shopping centers in the city.",
+   "t1": 17.027
+  },
+  {
+   "id": "l05",
+   "t": 17.1,
+   "d": 2.979,
+   "sub": "A delivery van pulls up outside a liquor store.",
+   "t1": 20.65
+  },
+  {
+   "id": "l06",
+   "t": 20.7,
+   "d": 3.356,
+   "sub": "Two men walk in, and seconds later the gunfire starts.",
+   "t1": 24.656
+  },
+  {
+   "id": "l07",
+   "t": 25.7,
+   "d": 4.286,
+   "sub": "Automatic weapons, in the middle of the afternoon, with shoppers all around.",
+   "t1": 30.586
+  },
+  {
+   "id": "l08",
+   "t": 31.0,
+   "d": 2.295,
+   "sub": "Two men inside the store were killed.",
+   "t1": 33.895
+  },
+  {
+   "id": "l09",
+   "t": 34.0,
+   "d": 1.599,
+   "sub": "The shooters got away.",
+   "t1": 36.199
+  },
+  {
+   "id": "l10",
+   "t": 36.6,
+   "d": 4.447,
+   "sub": "Police connected the attack to the cocaine trade that was taking over the city,",
+   "t1": 41.647
+  },
+  {
+   "id": "l11",
+   "t": 41.7,
+   "d": 4.419,
+   "sub": "and the newspapers gave this new kind of killer a name: the Cocaine Cowboys.",
+   "t1": 46.719
+  },
+  {
+   "id": "l12",
+   "t": 46.9,
+   "d": 3.944,
+   "sub": "That afternoon is part of the real history behind Vice City.",
+   "t1": 51.444
+  },
+  {
+   "id": "l13",
+   "t": 51.5,
+   "d": 3.757,
+   "sub": "Follow for more real stories behind GTA 6.",
+   "t1": 55.857
+  }
+ ],
+ "gun": [
+  24.5,
+  24.582,
+  24.66,
+  24.751,
+  24.827,
+  24.915,
+  24.998,
+  25.074,
+  25.161,
+  25.236,
+  25.75,
+  25.82,
+  25.89,
+  25.968,
+  26.056,
+  26.127,
+  26.2,
+  26.283,
+  26.85,
+  26.943,
+  27.031,
+  27.135
+ ],
+ "shots": {
+  "lot": [
+   0,
+   12.9
+  ],
+  "title": 8.7,
+  "front": [
+   12.9,
+   17.0
+  ],
+  "van": [
+   17.0,
+   20.6
+  ],
+  "door": [
+   20.6,
+   27.4
+  ],
+  "flee": [
+   27.4,
+   30.6
+  ],
+  "grey": [
+   30.6,
+   36.3
+  ],
+  "paper": [
+   36.3,
+   48.2
+  ],
+  "sky": [
+   48.2,
+   57.2
+  ]
+ },
+ "van_in": [
+  17.25,
+  18.75
+ ],
+ "men_walk": [
+  20.9,
+  23.3
+ ],
+ "door_close": 23.35,
+ "silence": [
+  24.1,
+  24.5
+ ],
+ "glass": 24.62,
+ "sign_die": [
+  24.65,
+  25.15
+ ],
+ "whip": 27.4,
+ "van_out": [
+  34.2,
+  35.9
+ ],
+ "paint_over": 36.3,
+ "cocaine": 44.72,
+ "cowboys": 45.06,
+ "vice": 49.78,
+ "light_out": [
+  55.6,
+  56.8
+ ]
+}

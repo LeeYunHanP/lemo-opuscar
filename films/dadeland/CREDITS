@@ -1,0 +1,10 @@
+Broad Daylight: credits for third-party material
+
+Picture: painted in code (Lemo-Opuscar impasto knife engine, copied from the library's styles/impasto demo; MIT, see the library's LICENSE).
+Voice: Kokoro-82M text-to-speech (kokoro-onnx), voice "am_onyx" — Apache License 2.0 (model: hexgrad/Kokoro-82M).
+Speech check: faster-whisper "base.en" — MIT.
+Music samples (CC0 1.0): VS Chamber Orchestra: Community Edition (Versilian Studios), Versilian Community Sample Library (Versilian Studios) — cellos, violins, violin tremolo, contrabass, contrabass pizzicato, harp, timpani, glockenspiel, vibraphone, bowed vibraphone.
+Sound effects: synthesised in code (core/audio/sfx.py).
+Font: Cormorant Garamond by Christian Thalmann (Catharsis Fonts) — SIL Open Font License 1.1, via Google Fonts.
+
+The newspaper ("The Evening Courier"), the shop sign and all figures are invented stand-ins. No game footage, logos or likenesses of real people are used.

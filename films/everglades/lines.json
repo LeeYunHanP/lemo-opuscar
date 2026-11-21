@@ -1,0 +1,111 @@
+[
+ {
+  "id": "l01",
+  "text": "That swamp you'll fly over in G.T.A. six?",
+  "sub": "That swamp you'll fly over in GTA 6?",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "That swamp you'll fly over in GTA 6?"
+ },
+ {
+  "id": "l02",
+  "text": "It's based on the Everglades, and the real one once swallowed a passenger jet.",
+  "sub": "It's based on the Everglades, and the real one once swallowed a passenger jet.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l03",
+  "text": "May eleventh, nineteen ninety-six.",
+  "sub": "May 11th, 1996.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "May 11th, 1996"
+ },
+ {
+  "id": "l04",
+  "text": "Value Jet Flight five ninety-two takes off from Miami, heading for Atlanta with one hundred and ten people on board.",
+  "sub": "ValuJet Flight 592 takes off from Miami, heading for Atlanta with 110 people on board.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Value Jet Flight 592 takes off from Miami, heading for Atlanta with 110 people on board."
+ },
+ {
+  "id": "l05",
+  "text": "Minutes later, the crew reports smoke.",
+  "sub": "Minutes later, the crew reports smoke.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l06",
+  "text": "They try to turn back.",
+  "sub": "They try to turn back.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l07",
+  "text": "They never make it.",
+  "sub": "They never make it.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l08",
+  "text": "The plane dives into the Everglades at high speed.",
+  "sub": "The plane dives into the Everglades at high speed.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l09",
+  "text": "Rescuers arrive to find almost nothing.",
+  "sub": "Rescuers arrive to find almost nothing.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l10",
+  "text": "No big pieces of wreckage.",
+  "sub": "No big pieces of wreckage.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l11",
+  "text": "No survivors.",
+  "sub": "No survivors.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l12",
+  "text": "Just jet fuel floating on the water between the sawgrass.",
+  "sub": "Just jet fuel floating on the water between the sawgrass.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l13",
+  "text": "The plane had disappeared into the mud.",
+  "sub": "The plane had disappeared into the mud.",
+  "voice": "am_onyx",
+  "speed": 0.88
+ },
+ {
+  "id": "l14",
+  "text": "Investigators later traced the fire, to oxygen generators that should never have been loaded into the cargo hold.",
+  "sub": "Investigators later traced the fire to oxygen generators that should never have been loaded into the cargo hold.",
+  "voice": "am_onyx",
+  "speed": 0.85
+ },
+ {
+  "id": "l15",
+  "text": "Follow for more of the real places behind G.T.A. six.",
+  "sub": "Follow for more of the real places behind GTA 6.",
+  "voice": "am_onyx",
+  "speed": 0.88,
+  "asr": "Follow for more of the real places behind GT A6."
+ }
+]

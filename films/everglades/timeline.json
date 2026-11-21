@@ -1,0 +1,252 @@
+{
+ "dur": 60.6,
+ "voice": [
+  {
+   "id": "l01",
+   "t": 0.3,
+   "d": 3.102,
+   "sub": "That swamp you'll fly over in GTA 6?"
+  },
+  {
+   "id": "l02",
+   "t": 4.05,
+   "d": 4.339,
+   "sub": "It's based on the Everglades, and the real one once swallowed a passenger jet."
+  },
+  {
+   "id": "l03",
+   "t": 9.05,
+   "d": 2.405,
+   "sub": "May 11th, 1996."
+  },
+  {
+   "id": "l04",
+   "t": 12.1,
+   "d": 7.174,
+   "sub": "ValuJet Flight 592 takes off from Miami, heading for Atlanta with 110 people on board."
+  },
+  {
+   "id": "l05",
+   "t": 19.9,
+   "d": 2.387,
+   "sub": "Minutes later, the crew reports smoke."
+  },
+  {
+   "id": "l06",
+   "t": 22.95,
+   "d": 1.46,
+   "sub": "They try to turn back."
+  },
+  {
+   "id": "l07",
+   "t": 25.05,
+   "d": 1.252,
+   "sub": "They never make it."
+  },
+  {
+   "id": "l08",
+   "t": 28.75,
+   "d": 3.108,
+   "sub": "The plane dives into the Everglades at high speed."
+  },
+  {
+   "id": "l09",
+   "t": 32.5,
+   "d": 2.648,
+   "sub": "Rescuers arrive to find almost nothing."
+  },
+  {
+   "id": "l10",
+   "t": 35.8,
+   "d": 2.17,
+   "sub": "No big pieces of wreckage."
+  },
+  {
+   "id": "l11",
+   "t": 38.6,
+   "d": 1.355,
+   "sub": "No survivors."
+  },
+  {
+   "id": "l12",
+   "t": 40.6,
+   "d": 3.476,
+   "sub": "Just jet fuel floating on the water between the sawgrass."
+  },
+  {
+   "id": "l13",
+   "t": 44.7,
+   "d": 2.437,
+   "sub": "The plane had disappeared into the mud."
+  },
+  {
+   "id": "l14",
+   "t": 47.8,
+   "d": 6.92,
+   "sub": "Investigators later traced the fire to oxygen generators that should never have been loaded into the cargo hold."
+  },
+  {
+   "id": "l15",
+   "t": 55.35,
+   "d": 3.94,
+   "sub": "Follow for more of the real places behind GTA 6."
+  }
+ ],
+ "caps": [
+  {
+   "t0": 0.3,
+   "t1": 4.002,
+   "text": "That swamp you'll fly over in GTA 6?"
+  },
+  {
+   "t0": 4.05,
+   "t1": 8.989,
+   "text": "It's based on the Everglades, and the real one once swallowed a passenger jet."
+  },
+  {
+   "t0": 9.05,
+   "t1": 12.055,
+   "text": "May 11th, 1996."
+  },
+  {
+   "t0": 12.1,
+   "t1": 19.874,
+   "text": "ValuJet Flight 592 takes off from Miami, heading for Atlanta with 110 people on board."
+  },
+  {
+   "t0": 19.9,
+   "t1": 22.887,
+   "text": "Minutes later, the crew reports smoke."
+  },
+  {
+   "t0": 22.95,
+   "t1": 25.01,
+   "text": "They try to turn back."
+  },
+  {
+   "t0": 25.05,
+   "t1": 26.88,
+   "text": "They never make it."
+  },
+  {
+   "t0": 26.9,
+   "t1": 28.72,
+   "text": "[SILENCE]"
+  },
+  {
+   "t0": 28.75,
+   "t1": 32.458,
+   "text": "The plane dives into the Everglades at high speed."
+  },
+  {
+   "t0": 32.5,
+   "t1": 35.748,
+   "text": "Rescuers arrive to find almost nothing."
+  },
+  {
+   "t0": 35.8,
+   "t1": 38.57,
+   "text": "No big pieces of wreckage."
+  },
+  {
+   "t0": 38.6,
+   "t1": 40.555,
+   "text": "No survivors."
+  },
+  {
+   "t0": 40.6,
+   "t1": 44.676,
+   "text": "Just jet fuel floating on the water between the sawgrass."
+  },
+  {
+   "t0": 44.7,
+   "t1": 47.737,
+   "text": "The plane had disappeared into the mud."
+  },
+  {
+   "t0": 47.8,
+   "t1": 55.32,
+   "text": "Investigators later traced the fire to oxygen generators that should never have been loaded into the cargo hold."
+  },
+  {
+   "t0": 55.35,
+   "t1": 59.89,
+   "text": "Follow for more of the real places behind GTA 6."
+  }
+ ],
+ "scenes": [
+  [
+   "plane",
+   0,
+   8.6
+  ],
+  [
+   "terminal",
+   8.6,
+   19.6
+  ],
+  [
+   "cockpit",
+   19.6,
+   26.9
+  ],
+  [
+   "silence",
+   26.9,
+   28.4
+  ],
+  [
+   "shore",
+   28.4,
+   32.2
+  ],
+  [
+   "search",
+   32.2,
+   47.5
+  ],
+  [
+   "notice",
+   47.5,
+   55.0
+  ],
+  [
+   "dusk",
+   55.0,
+   60.6
+  ]
+ ],
+ "tears": [
+  8.6,
+  19.6,
+  26.9,
+  32.2,
+  47.5,
+  55.0
+ ],
+ "title": [
+  0.5,
+  4.6
+ ],
+ "chime": 9.3,
+ "smoke": [
+  19.8,
+  26.6
+ ],
+ "dive": [
+  28.9,
+  29.8
+ ],
+ "thud": 30.8,
+ "birds": 30.2,
+ "glance": [
+  39.8,
+  40.9
+ ],
+ "bat_blink": 56.6,
+ "freeze": 59.5,
+ "off": [
+  59.6,
+  60.0
+ ]
+}
